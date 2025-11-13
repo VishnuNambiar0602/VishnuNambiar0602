@@ -15,23 +15,6 @@ Prioritizing the accessibility and maintainability of codebase is integral to my
 
 ### Skills
 
-# Hi My name is Vishnu Nambiar
-
-## A Solution Oriented AIML Engineer
-
-Driven by curiosity and a commitment to continuous learning, I actively seek opportunities to expand my expertise. With a solid foundation in AI and ML, I am eager to apply my skills in innovation and data-driven solutions to make a meaningful impact in the evolving tech landscape.
-
-Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Vishnu Nambiar](https://www.vishnunambiar.me/)
-* 📬  You can contact me at [vishnunambiar2006@gmail.com](mailto:vishnunambiar2006@gmail.com)
-* 🧠  I'm currently in therapy sesson with my Language Models
-* 🤝  I'm open to collaborating on Artificial Intelligence and Machine Learning projects
-* ⚡  love books and music and meeting.
-
-### Skills
-
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
