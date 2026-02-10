@@ -16,6 +16,20 @@
 
 ---
 
+
+### 📊 System Performance (Live Metrics)
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VishnuNambiar0602&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishnuNambiar0602&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VishnuNambiar0602&theme=tokyonight" />
+</p>
+
+---
+
 ### 🛠️ Strategic Technical Stack (Neural Layers)
 
 #### 🧬 Layer 01: Deep Learning & Vision
@@ -48,18 +62,6 @@
 
 ---
 
-### 📊 System Performance (Live Metrics)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VishnuNambiar0602&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishnuNambiar0602&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VishnuNambiar0602&theme=tokyonight" />
-</p>
-
----
 
 ### 📡 Connection Gateway
 <p align="center">
