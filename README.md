@@ -7,7 +7,7 @@ Driven by curiosity and a commitment to continuous learning, I actively seek opp
 Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Vishnu Nambiar]([http://adharshjolly-portfolio.vercel.app](https://www.vishnunambiar.me/))
+* 🖥️  See my portfolio at [Vishnu Nambiar]((https://www.vishnunambiar.me/))
 * 📬  You can contact me at [vishnunambiar2006@gmail.com](mailto:vishnunambiar2006@gmail.com)
 * 🧠  I'm currently in therapy sesson with my Language Models
 * 🤝  I'm open to collaborating on Artificial Intelligence and Machine Learning projects
