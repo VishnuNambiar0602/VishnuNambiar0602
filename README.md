@@ -8,6 +8,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=torvalds&theme=aurora" width="100%" alt="Animated GitHub stats for Linus Torvalds" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=torvalds&theme=aurora" width="100%" alt="Animated language stack for Linus Torvalds" />
+</p>
 
 ### 🟢 CORE_KERNEL_STATUS: HYPER-THREADED
 > *"Compiling dreams into reality, one epoch at a time. Error: Sleep.sh not found."*
@@ -23,6 +30,12 @@
 </div>
 
 ---
+
+### CONTRIBUTIONS
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
+</p>
+
 
 ### 🛠️ THE_ARMORY (Tech Singularity)
 
@@ -95,3 +108,6 @@
 ![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 
 ---
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/chess?username=torvalds&theme=aurora" width="100%" alt="Animated automatic chess replay" />
+</p>
