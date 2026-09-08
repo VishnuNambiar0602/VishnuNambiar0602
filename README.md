@@ -2,11 +2,6 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=vishnu&theme=aurora&label=Vishnu%20Nambiar" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
 </p>
 
-# ⚡ [VISHNU_OS_v3.0] : SYSTEM_OVERHAUL_COMPLETE
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=VISHNU%20NAMBIAR&fontSize=80&animation=fadeIn&fontAlignY=35&desc=NEURAL%20ARCHITECT%20%7C%20DRONE%20STRATEGIST&descAlignY=55&descSize=20" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1000&color=00f2ff&center=true&vCenter=true&width=800&lines=DEFYING+THE+BLACK+BOX;ENGINEERING+EMPATHETIC+AI;DEPLOYING+THE+FUTURE+OF+DRONES;OPTIMIZING+CHAOS+INTO+CODE" alt="Typing SVG" />
