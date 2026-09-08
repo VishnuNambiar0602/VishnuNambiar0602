@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=vishnu&theme=aurora&label=Vishnu%20Nambiar" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=VishnuNambiar0602&theme=aurora&label=Vishnu%20Nambiar" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
 </p>
 
 
@@ -9,11 +9,11 @@
 
 ---
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=torvalds&theme=aurora" width="100%" alt="Animated GitHub stats for Linus Torvalds" />
+  <img src="https://www.gitskins.com/api/section/stats?username=VishnuNambiar0602&theme=aurora" width="100%" alt="Animated GitHub stats for Linus Torvalds" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=torvalds&theme=aurora" width="100%" alt="Animated language stack for Linus Torvalds" />
+  <img src="https://www.gitskins.com/api/section/stack?username=VishnuNambiar0602&theme=aurora" width="100%" alt="Animated language stack for Linus Torvalds" />
 </p>
 
 ### 🟢 CORE_KERNEL_STATUS: HYPER-THREADED
