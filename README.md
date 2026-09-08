@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=vishnu&theme=aurora&label=Vishnu%20Nambiar" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
+</p>
+
 # ⚡ [VISHNU_OS_v3.0] : SYSTEM_OVERHAUL_COMPLETE
 
 <p align="center">
