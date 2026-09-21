@@ -72,9 +72,9 @@ _Auto-updated every Monday via GitHub Actions._
 | --- | --- |
 | ### [Utishtha](https://github.com/VishnuNambiar0602/Utishtha)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 4 · 👀 0 · 📈 16** | ### [hercules](https://github.com/VishnuNambiar0602/hercules)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** |
 | ### [web_crab](https://github.com/VishnuNambiar0602/web_crab)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** | ### [TEDR](https://github.com/VishnuNambiar0602/TEDR)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 1 · 👀 0 · 📈 13** |
-| ### [medical_report_grasp](https://github.com/VishnuNambiar0602/medical_report_grasp)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** | ### [Trinetra](https://github.com/VishnuNambiar0602/Trinetra)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** |
+| ### [Carmerica](https://github.com/VishnuNambiar0602/Carmerica)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** | ### [workpodd-assignment](https://github.com/VishnuNambiar0602/workpodd-assignment)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** |
 
 <!-- TOP_PROJECTS_SHOWCASE:START -->
-<!-- Last updated: 2026-09-14T11:19:23.301Z -->
+<!-- Last updated: 2026-09-21T11:32:30.354Z -->
 <!-- TOP_PROJECTS_SHOWCASE:END -->
 <!-- TOP_PROJECTS_SECTION_END -->
