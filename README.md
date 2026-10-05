@@ -72,9 +72,9 @@ _Auto-updated every Monday via GitHub Actions._
 | --- | --- |
 | ### [Utishtha](https://github.com/VishnuNambiar0602/Utishtha)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 4 · 👀 0 · 📈 16** | ### [hercules](https://github.com/VishnuNambiar0602/hercules)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** |
 | ### [web_crab](https://github.com/VishnuNambiar0602/web_crab)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** | ### [TEDR](https://github.com/VishnuNambiar0602/TEDR)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 1 · 👀 0 · 📈 13** |
-| ### [agentic-harness](https://github.com/VishnuNambiar0602/agentic-harness)<br>No description provided.<br>**Language:** Not specified<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 12** | ### [Carmerica](https://github.com/VishnuNambiar0602/Carmerica)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** |
+| ### [agentic-harness](https://github.com/VishnuNambiar0602/agentic-harness)<br>No description provided.<br>**Language:** Not specified<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 12** | ### [Restuarant-Managment-System-Using-ML](https://github.com/VishnuNambiar0602/Restuarant-Managment-System-Using-ML)<br>This project uses Machine Learning and Transfer Learning to predict restaurant sales, customer footfall, and market trends, providing action<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 9** |
 
 <!-- TOP_PROJECTS_SHOWCASE:START -->
-<!-- Last updated: 2026-09-28T12:26:52.876Z -->
+<!-- Last updated: 2026-10-05T13:07:21.647Z -->
 <!-- TOP_PROJECTS_SHOWCASE:END -->
 <!-- TOP_PROJECTS_SECTION_END -->
