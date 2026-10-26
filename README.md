@@ -70,11 +70,11 @@ _Auto-updated every Monday via GitHub Actions._
 
 | Project A | Project B |
 | --- | --- |
-| ### [Utishtha](https://github.com/VishnuNambiar0602/Utishtha)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 4 · 👀 0 · 📈 16** | ### [hercules](https://github.com/VishnuNambiar0602/hercules)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** |
-| ### [TEDR](https://github.com/VishnuNambiar0602/TEDR)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 1 · 👀 0 · 📈 13** | ### [agentic-harness](https://github.com/VishnuNambiar0602/agentic-harness)<br>No description provided.<br>**Language:** Not specified<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 12** |
-| ### [web_crab](https://github.com/VishnuNambiar0602/web_crab)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** | ### [Restuarant-Managment-System-Using-ML](https://github.com/VishnuNambiar0602/Restuarant-Managment-System-Using-ML)<br>This project uses Machine Learning and Transfer Learning to predict restaurant sales, customer footfall, and market trends, providing action<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 9** |
+| ### [Utishtha](https://github.com/VishnuNambiar0602/Utishtha)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 4 · 👀 0 · 📈 16** | ### [Vishnu_portfolio](https://github.com/VishnuNambiar0602/Vishnu_portfolio)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** |
+| ### [Edulearn](https://github.com/VishnuNambiar0602/Edulearn)<br>No description provided.<br>**Language:** JavaScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** | ### [TEDR](https://github.com/VishnuNambiar0602/TEDR)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 1 · 👀 0 · 📈 13** |
+| ### [hercules](https://github.com/VishnuNambiar0602/hercules)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** | ### [web_crab](https://github.com/VishnuNambiar0602/web_crab)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** |
 
 <!-- TOP_PROJECTS_SHOWCASE:START -->
-<!-- Last updated: 2026-10-19T11:39:34.857Z -->
+<!-- Last updated: 2026-10-26T11:56:29.513Z -->
 <!-- TOP_PROJECTS_SHOWCASE:END -->
 <!-- TOP_PROJECTS_SECTION_END -->
