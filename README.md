@@ -71,10 +71,10 @@ _Auto-updated every Monday via GitHub Actions._
 | Project A | Project B |
 | --- | --- |
 | ### [Utishtha](https://github.com/VishnuNambiar0602/Utishtha)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 4 · 👀 0 · 📈 16** | ### [Vishnu_portfolio](https://github.com/VishnuNambiar0602/Vishnu_portfolio)<br>No description provided.<br>**Language:** TypeScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** |
-| ### [Edulearn](https://github.com/VishnuNambiar0602/Edulearn)<br>No description provided.<br>**Language:** JavaScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** | ### [TEDR](https://github.com/VishnuNambiar0602/TEDR)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 1 · 👀 0 · 📈 13** |
-| ### [hercules](https://github.com/VishnuNambiar0602/hercules)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** | ### [web_crab](https://github.com/VishnuNambiar0602/web_crab)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** |
+| ### [Edulearn](https://github.com/VishnuNambiar0602/Edulearn)<br>No description provided.<br>**Language:** JavaScript<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 14** | ### [hercules](https://github.com/VishnuNambiar0602/hercules)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** |
+| ### [web_crab](https://github.com/VishnuNambiar0602/web_crab)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 0 · 👀 0 · 📈 10** | ### [TEDR](https://github.com/VishnuNambiar0602/TEDR)<br>No description provided.<br>**Language:** Python<br>**⭐ 0 · 🍴 1 · 👀 0 · 📈 10** |
 
 <!-- TOP_PROJECTS_SHOWCASE:START -->
-<!-- Last updated: 2026-10-26T11:56:29.513Z -->
+<!-- Last updated: 2026-11-02T14:18:37.314Z -->
 <!-- TOP_PROJECTS_SHOWCASE:END -->
 <!-- TOP_PROJECTS_SECTION_END -->
